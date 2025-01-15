@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Irving Machado</h1>
 <h3 align="center">A passionate frontend developer from El Salvador</h3>
 
-- 🔭 I’m currently working on [LabSuelosUnivo](https://github.com/JulioAmayaJr/LabSuelosUnivo)
+- 🔭 I’m currently working on [LabSuelosUnivo](https://github.com/JulioAmayaJr/sorteobr)
 
-- 🌱 I’m currently learning **JavaScript, PHP and Flutter.**
+- 🌱 I’m currently learning **JavaScript, PHP and React.**
 
 - 💬 Ask me about **CodeIgniter**
 
